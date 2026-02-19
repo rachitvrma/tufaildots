@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "enabled": true,
+      "name": "Official Noctalia Plugins",
+      "url": "https://github.com/noctalia-dev/noctalia-plugins"
+    }
+  ],
+  "states": {
+    "niri-overview-launcher": {
+      "enabled": true,
+      "sourceUrl": "https://github.com/noctalia-dev/noctalia-plugins"
+    },
+    "pomodoro": {
+      "enabled": true,
+      "sourceUrl": "https://github.com/noctalia-dev/noctalia-plugins"
+    }
+  }
+}
